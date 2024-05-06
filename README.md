@@ -1,5 +1,7 @@
 # Celebrity Face Recognition
 
+![ss6](https://github.com/NavalParkipandala/Celebrity_Face_Recognition/assets/147399431/4be4e900-741e-44c6-a4de-dc63e02ab280)
+
 This project aims to classify sports personalities into five categories: Maria Sharapova, Serena Williams, Virat Kohli, Roger Federer, and Lionel Messi. It utilizes machine learning techniques to recognize and classify faces.
 
 ### Folder Structure
